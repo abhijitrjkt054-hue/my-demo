@@ -1,2 +1,4 @@
 # my-demo
-this is my first repo
+this is my first Git Repository
+Author:- Abhijit Samal
+
